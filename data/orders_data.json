@@ -1,0 +1,2570 @@
+[
+    {
+        "instrument": "EUR_CHF",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "9390",
+            "9392",
+            "9445"
+        ],
+        "price": [
+            0.97402,
+            0.97419
+        ],
+        "margin": [
+            59.6684,
+            26.4871
+        ],
+        "pip value": 0.153,
+        "expected_profit": [
+            0.307,
+            0.136
+        ],
+        "expected_loss": [
+            0.766,
+            0.341
+        ],
+        "main_trade_units": -1444,
+        "sec_trade_units": 641,
+        "realizedPL": 0.396,
+        "realizedPL_pips": 5.239999999999999
+    },
+    {
+        "instrument": "SGD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9394",
+            "9396"
+        ],
+        "price": [
+            0.68715,
+            0.68702
+        ],
+        "margin": [
+            59.6763,
+            26.5228
+        ],
+        "pip value": 0.174,
+        "expected_profit": [
+            0.348,
+            0.154
+        ],
+        "expected_loss": [
+            0.869,
+            0.386
+        ],
+        "main_trade_units": 1638,
+        "sec_trade_units": -728,
+        "realizedPL": 0.434,
+        "realizedPL_pips": 2.5
+    },
+    {
+        "instrument": "EUR_GBP",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9398",
+            "9400"
+        ],
+        "price": [
+            0.87868,
+            0.87884
+        ],
+        "margin": [
+            60.2325,
+            26.7623
+        ],
+        "pip value": 0.206,
+        "expected_profit": [
+            0.412,
+            0.183
+        ],
+        "expected_loss": [
+            1.029,
+            0.457
+        ],
+        "main_trade_units": -1751,
+        "sec_trade_units": 778,
+        "realizedPL": 0.426,
+        "realizedPL_pips": 2.07
+    },
+    {
+        "instrument": "AUD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9402",
+            "9404"
+        ],
+        "price": [
+            0.63193,
+            0.6318
+        ],
+        "margin": [
+            59.6724,
+            26.5025
+        ],
+        "pip value": 0.189,
+        "expected_profit": [
+            0.378,
+            0.168
+        ],
+        "expected_loss": [
+            0.945,
+            0.42
+        ],
+        "main_trade_units": 1781,
+        "sec_trade_units": -791,
+        "realizedPL": 2.313,
+        "realizedPL_pips": 12.24
+    },
+    {
+        "instrument": "CAD_CHF",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "9406",
+            "9408",
+            "9412"
+        ],
+        "price": [
+            0.70831,
+            0.70841
+        ],
+        "margin": [
+            59.6795,
+            26.5042
+        ],
+        "pip value": 0.211,
+        "expected_profit": [
+            0.421,
+            0.187
+        ],
+        "expected_loss": [
+            1.054,
+            0.468
+        ],
+        "main_trade_units": -1986,
+        "sec_trade_units": 882,
+        "realizedPL": 0.546,
+        "realizedPL_pips": 5.2299999999999995
+    },
+    {
+        "instrument": "CAD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9418",
+            "9420"
+        ],
+        "price": [
+            0.70854,
+            0.70837
+        ],
+        "margin": [
+            59.6775,
+            26.5033
+        ],
+        "pip value": 0.211,
+        "expected_profit": [
+            0.421,
+            0.187
+        ],
+        "expected_loss": [
+            1.053,
+            0.468
+        ],
+        "main_trade_units": 1986,
+        "sec_trade_units": -882,
+        "realizedPL": 0.579,
+        "realizedPL_pips": 2.74
+    },
+    {
+        "instrument": "NZD_CHF",
+        "active": false,
+        "level": "3",
+        "IDs": [
+            "9423",
+            "9425",
+            "9467",
+            "9469"
+        ],
+        "price": [
+            0.57488,
+            0.57503
+        ],
+        "margin": [
+            59.6859,
+            26.5237
+        ],
+        "pip value": 0.208,
+        "expected_profit": [
+            0.415,
+            0.185
+        ],
+        "expected_loss": [
+            1.039,
+            0.461
+        ],
+        "main_trade_units": -1960,
+        "sec_trade_units": 871,
+        "realizedPL": -2.014,
+        "realizedPL_pips": 5.109999999999999
+    },
+    {
+        "instrument": "AUD_USD",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9427",
+            "9429"
+        ],
+        "price": [
+            0.66932,
+            0.66917
+        ],
+        "margin": [
+            59.6627,
+            26.5019
+        ],
+        "pip value": 0.178,
+        "expected_profit": [
+            0.357,
+            0.159
+        ],
+        "expected_loss": [
+            0.892,
+            0.397
+        ],
+        "main_trade_units": 1783,
+        "sec_trade_units": -792,
+        "realizedPL": 5.643,
+        "realizedPL_pips": 31.700000000000003
+    },
+    {
+        "instrument": "SGD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9439",
+            "9441"
+        ],
+        "price": [
+            0.68803,
+            0.68812
+        ],
+        "margin": [
+            59.6724,
+            26.521
+        ],
+        "pip value": 0.174,
+        "expected_profit": [
+            0.347,
+            0.154
+        ],
+        "expected_loss": [
+            0.868,
+            0.386
+        ],
+        "main_trade_units": -1638,
+        "sec_trade_units": 728,
+        "realizedPL": 0.351,
+        "realizedPL_pips": 2.02
+    },
+    {
+        "instrument": "EUR_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9451",
+            "9453"
+        ],
+        "price": [
+            0.97411,
+            0.97385
+        ],
+        "margin": [
+            59.7009,
+            26.5292
+        ],
+        "pip value": 0.153,
+        "expected_profit": [
+            0.306,
+            0.136
+        ],
+        "expected_loss": [
+            0.766,
+            0.341
+        ],
+        "main_trade_units": 1447,
+        "sec_trade_units": -643,
+        "realizedPL": 3.499,
+        "realizedPL_pips": 22.86
+    },
+    {
+        "instrument": "EUR_GBP",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9461",
+            "9463"
+        ],
+        "price": [
+            0.87782,
+            0.87806
+        ],
+        "margin": [
+            60.2202,
+            26.7416
+        ],
+        "pip value": 0.206,
+        "expected_profit": [
+            0.412,
+            0.183
+        ],
+        "expected_loss": [
+            1.031,
+            0.458
+        ],
+        "main_trade_units": -1752,
+        "sec_trade_units": 778,
+        "realizedPL": 5.209,
+        "realizedPL_pips": 25.29
+    },
+    {
+        "instrument": "AUD_USD",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "9481",
+            "9483",
+            "9519"
+        ],
+        "price": [
+            0.67484,
+            0.67497
+        ],
+        "margin": [
+            59.7304,
+            26.5236
+        ],
+        "pip value": 0.177,
+        "expected_profit": [
+            0.354,
+            0.157
+        ],
+        "expected_loss": [
+            0.885,
+            0.393
+        ],
+        "main_trade_units": -1770,
+        "sec_trade_units": 786,
+        "realizedPL": 0.489,
+        "realizedPL_pips": 5.1000000000000005
+    },
+    {
+        "instrument": "EUR_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9485",
+            "9487"
+        ],
+        "price": [
+            0.97817,
+            0.978
+        ],
+        "margin": [
+            59.727,
+            26.513
+        ],
+        "pip value": 0.153,
+        "expected_profit": [
+            0.305,
+            0.136
+        ],
+        "expected_loss": [
+            0.763,
+            0.339
+        ],
+        "main_trade_units": 1435,
+        "sec_trade_units": -637,
+        "realizedPL": 0.351,
+        "realizedPL_pips": 2.29
+    },
+    {
+        "instrument": "AUD_CHF",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "9493",
+            "9495",
+            "9617"
+        ],
+        "price": [
+            0.63451,
+            0.63457
+        ],
+        "margin": [
+            59.6993,
+            26.524
+        ],
+        "pip value": 0.188,
+        "expected_profit": [
+            0.377,
+            0.167
+        ],
+        "expected_loss": [
+            0.941,
+            0.418
+        ],
+        "main_trade_units": -1769,
+        "sec_trade_units": 786,
+        "realizedPL": 0.7989999999999999,
+        "realizedPL_pips": 9.11
+    },
+    {
+        "instrument": "NZD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9503",
+            "9505"
+        ],
+        "price": [
+            0.57755,
+            0.5774
+        ],
+        "margin": [
+            59.7446,
+            26.5395
+        ],
+        "pip value": 0.207,
+        "expected_profit": [
+            0.414,
+            0.184
+        ],
+        "expected_loss": [
+            1.035,
+            0.46
+        ],
+        "main_trade_units": 1945,
+        "sec_trade_units": -864,
+        "realizedPL": 0.465,
+        "realizedPL_pips": 2.25
+    },
+    {
+        "instrument": "SGD_CHF",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "9513",
+            "9515",
+            "9559"
+        ],
+        "price": [
+            0.68739,
+            0.68751
+        ],
+        "margin": [
+            59.753,
+            26.5485
+        ],
+        "pip value": 0.174,
+        "expected_profit": [
+            0.348,
+            0.155
+        ],
+        "expected_loss": [
+            0.869,
+            0.386
+        ],
+        "main_trade_units": -1634,
+        "sec_trade_units": 726,
+        "realizedPL": 0.477,
+        "realizedPL_pips": 5.33
+    },
+    {
+        "instrument": "NZD_CHF",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "9525",
+            "9527",
+            "9539"
+        ],
+        "price": [
+            0.57826,
+            0.57811
+        ],
+        "margin": [
+            59.7255,
+            26.5242
+        ],
+        "pip value": 0.207,
+        "expected_profit": [
+            0.413,
+            0.184
+        ],
+        "expected_loss": [
+            1.033,
+            0.459
+        ],
+        "main_trade_units": 1941,
+        "sec_trade_units": -862,
+        "realizedPL": 0.636,
+        "realizedPL_pips": 5.34
+    },
+    {
+        "instrument": "AUD_USD",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9533",
+            "9535"
+        ],
+        "price": [
+            0.67499,
+            0.67511
+        ],
+        "margin": [
+            59.741,
+            26.5291
+        ],
+        "pip value": 0.177,
+        "expected_profit": [
+            0.354,
+            0.157
+        ],
+        "expected_loss": [
+            0.885,
+            0.393
+        ],
+        "main_trade_units": -1770,
+        "sec_trade_units": 786,
+        "realizedPL": 0.526,
+        "realizedPL_pips": 2.97
+    },
+    {
+        "instrument": "AUD_USD",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9545",
+            "9547"
+        ],
+        "price": [
+            0.67425,
+            0.67409
+        ],
+        "margin": [
+            59.7315,
+            26.5282
+        ],
+        "pip value": 0.177,
+        "expected_profit": [
+            0.354,
+            0.158
+        ],
+        "expected_loss": [
+            0.886,
+            0.394
+        ],
+        "main_trade_units": 1772,
+        "sec_trade_units": -787,
+        "realizedPL": 0.412,
+        "realizedPL_pips": 2.33
+    },
+    {
+        "instrument": "NZD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9553",
+            "9555"
+        ],
+        "price": [
+            0.57808,
+            0.57823
+        ],
+        "margin": [
+            59.7529,
+            26.5296
+        ],
+        "pip value": 0.207,
+        "expected_profit": [
+            0.414,
+            0.184
+        ],
+        "expected_loss": [
+            1.034,
+            0.459
+        ],
+        "main_trade_units": -1946,
+        "sec_trade_units": 864,
+        "realizedPL": 0.579,
+        "realizedPL_pips": 2.8
+    },
+    {
+        "instrument": "CAD_CHF",
+        "active": false,
+        "level": "3",
+        "IDs": [
+            "9567",
+            "9569",
+            "9581",
+            "9613"
+        ],
+        "price": [
+            0.70922,
+            0.70909
+        ],
+        "margin": [
+            59.7597,
+            26.5495
+        ],
+        "pip value": 0.211,
+        "expected_profit": [
+            0.421,
+            0.187
+        ],
+        "expected_loss": [
+            1.053,
+            0.468
+        ],
+        "main_trade_units": 1983,
+        "sec_trade_units": -881,
+        "realizedPL": 0.909,
+        "realizedPL_pips": 6.789999999999999
+    },
+    {
+        "instrument": "SGD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9575",
+            "9577"
+        ],
+        "price": [
+            0.68757,
+            0.68768
+        ],
+        "margin": [
+            59.742,
+            26.5276
+        ],
+        "pip value": 0.174,
+        "expected_profit": [
+            0.348,
+            0.155
+        ],
+        "expected_loss": [
+            0.869,
+            0.386
+        ],
+        "main_trade_units": -1635,
+        "sec_trade_units": 726,
+        "realizedPL": 0.412,
+        "realizedPL_pips": 2.37
+    },
+    {
+        "instrument": "AUD_USD",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9589",
+            "9591"
+        ],
+        "price": [
+            0.67505,
+            0.6749
+        ],
+        "margin": [
+            59.7357,
+            26.5259
+        ],
+        "pip value": 0.177,
+        "expected_profit": [
+            0.354,
+            0.157
+        ],
+        "expected_loss": [
+            0.885,
+            0.393
+        ],
+        "main_trade_units": 1770,
+        "sec_trade_units": -786,
+        "realizedPL": 0.443,
+        "realizedPL_pips": 2.5
+    },
+    {
+        "instrument": "AUD_USD",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "9597",
+            "9599",
+            "9611"
+        ],
+        "price": [
+            0.67568,
+            0.67583
+        ],
+        "margin": [
+            59.7372,
+            26.5236
+        ],
+        "pip value": 0.177,
+        "expected_profit": [
+            0.354,
+            0.157
+        ],
+        "expected_loss": [
+            0.884,
+            0.393
+        ],
+        "main_trade_units": -1768,
+        "sec_trade_units": 785,
+        "realizedPL": 0.496,
+        "realizedPL_pips": 5.69
+    },
+    {
+        "instrument": "EUR_GBP",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "9605",
+            "9607",
+            "9633"
+        ],
+        "price": [
+            0.8797,
+            0.87955
+        ],
+        "margin": [
+            60.2436,
+            26.7441
+        ],
+        "pip value": 0.206,
+        "expected_profit": [
+            0.412,
+            0.183
+        ],
+        "expected_loss": [
+            1.029,
+            0.457
+        ],
+        "main_trade_units": 1739,
+        "sec_trade_units": -772,
+        "realizedPL": 1.029,
+        "realizedPL_pips": 7.64
+    },
+    {
+        "instrument": "AUD_USD",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "9623",
+            "9625",
+            "9629"
+        ],
+        "price": [
+            0.67571,
+            0.67583
+        ],
+        "margin": [
+            59.7381,
+            26.524
+        ],
+        "pip value": 0.177,
+        "expected_profit": [
+            0.354,
+            0.157
+        ],
+        "expected_loss": [
+            0.884,
+            0.393
+        ],
+        "main_trade_units": -1768,
+        "sec_trade_units": 785,
+        "realizedPL": 0.5680000000000001,
+        "realizedPL_pips": 5.59
+    },
+    {
+        "instrument": "AUD_USD",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9639",
+            "9641"
+        ],
+        "price": [
+            0.67586,
+            0.67573
+        ],
+        "margin": [
+            59.7407,
+            26.5252
+        ],
+        "pip value": 0.177,
+        "expected_profit": [
+            0.354,
+            0.157
+        ],
+        "expected_loss": [
+            0.884,
+            0.393
+        ],
+        "main_trade_units": 1768,
+        "sec_trade_units": -785,
+        "realizedPL": 0.553,
+        "realizedPL_pips": 3.12
+    },
+    {
+        "instrument": "AUD_USD",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9647",
+            "9649"
+        ],
+        "price": [
+            0.67657,
+            0.67671
+        ],
+        "margin": [
+            59.7135,
+            26.5243
+        ],
+        "pip value": 0.177,
+        "expected_profit": [
+            0.353,
+            0.157
+        ],
+        "expected_loss": [
+            0.883,
+            0.392
+        ],
+        "main_trade_units": -1765,
+        "sec_trade_units": 784,
+        "realizedPL": 0.375,
+        "realizedPL_pips": 2.12
+    },
+    {
+        "instrument": "EUR_GBP",
+        "active": true,
+        "level": "4",
+        "IDs": [
+            "9655",
+            "9657",
+            "9669",
+            "9671",
+            "9681"
+        ],
+        "price": [
+            0.8797,
+            0.87958
+        ],
+        "margin": [
+            60.2806,
+            26.7875
+        ],
+        "pip value": 0.206,
+        "expected_profit": [
+            0.412,
+            0.183
+        ],
+        "expected_loss": [
+            1.029,
+            0.457
+        ],
+        "main_trade_units": 1735,
+        "sec_trade_units": -771,
+        "realizedPL": 0.409,
+        "realizedPL_pips": 4.47
+    },
+    {
+        "instrument": "AUD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9663",
+            "9665"
+        ],
+        "price": [
+            0.63476,
+            0.63492
+        ],
+        "margin": [
+            59.744,
+            26.5436
+        ],
+        "pip value": 0.188,
+        "expected_profit": [
+            0.376,
+            0.167
+        ],
+        "expected_loss": [
+            0.941,
+            0.418
+        ],
+        "main_trade_units": -1767,
+        "sec_trade_units": 785,
+        "realizedPL": 0.463,
+        "realizedPL_pips": 2.46
+    },
+    {
+        "instrument": "AUD_USD",
+        "active": false,
+        "level": "4",
+        "IDs": [
+            "9677",
+            "9679",
+            "9685",
+            "9695",
+            "9711"
+        ],
+        "price": [
+            0.67588,
+            0.67575
+        ],
+        "margin": [
+            59.7087,
+            26.5259
+        ],
+        "pip value": 0.177,
+        "expected_profit": [
+            0.353,
+            0.157
+        ],
+        "expected_loss": [
+            0.884,
+            0.393
+        ],
+        "main_trade_units": 1767,
+        "sec_trade_units": -785,
+        "realizedPL": 12.027,
+        "realizedPL_pips": 70.28
+    },
+    {
+        "instrument": "AUD_CHF",
+        "active": false,
+        "level": "3",
+        "IDs": [
+            "9691",
+            "9693",
+            "9699",
+            "9927"
+        ],
+        "price": [
+            0.63436,
+            0.63445
+        ],
+        "margin": [
+            59.7234,
+            26.54
+        ],
+        "pip value": 0.188,
+        "expected_profit": [
+            0.377,
+            0.167
+        ],
+        "expected_loss": [
+            0.942,
+            0.418
+        ],
+        "main_trade_units": -1771,
+        "sec_trade_units": 787,
+        "realizedPL": 3.3810000000000002,
+        "realizedPL_pips": 20.25
+    },
+    {
+        "instrument": "CAD_CHF",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "9707",
+            "9709",
+            "9735"
+        ],
+        "price": [
+            0.70878,
+            0.70868
+        ],
+        "margin": [
+            59.541,
+            26.4426
+        ],
+        "pip value": 0.21,
+        "expected_profit": [
+            0.42,
+            0.187
+        ],
+        "expected_loss": [
+            1.05,
+            0.467
+        ],
+        "main_trade_units": 1977,
+        "sec_trade_units": -878,
+        "realizedPL": 1.048,
+        "realizedPL_pips": 8.26
+    },
+    {
+        "instrument": "AUD_USD",
+        "active": false,
+        "level": "4",
+        "IDs": [
+            "9721",
+            "9723",
+            "9727",
+            "9729",
+            "9731"
+        ],
+        "price": [
+            0.67648,
+            0.67666
+        ],
+        "margin": [
+            59.5711,
+            26.4539
+        ],
+        "pip value": 0.176,
+        "expected_profit": [
+            0.352,
+            0.157
+        ],
+        "expected_loss": [
+            0.881,
+            0.391
+        ],
+        "main_trade_units": -1761,
+        "sec_trade_units": 782,
+        "realizedPL": 3.899,
+        "realizedPL_pips": 26.71
+    },
+    {
+        "instrument": "SGD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9741",
+            "9743"
+        ],
+        "price": [
+            0.68645,
+            0.68625
+        ],
+        "margin": [
+            59.5027,
+            26.4372
+        ],
+        "pip value": 0.173,
+        "expected_profit": [
+            0.347,
+            0.154
+        ],
+        "expected_loss": [
+            0.867,
+            0.386
+        ],
+        "main_trade_units": 1625,
+        "sec_trade_units": -722,
+        "realizedPL": 0.531,
+        "realizedPL_pips": 3.07
+    },
+    {
+        "instrument": "AUD_USD",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "9753",
+            "9755",
+            "9759"
+        ],
+        "price": [
+            0.67684,
+            0.67699
+        ],
+        "margin": [
+            59.569,
+            26.4676
+        ],
+        "pip value": 0.176,
+        "expected_profit": [
+            0.352,
+            0.156
+        ],
+        "expected_loss": [
+            0.88,
+            0.391
+        ],
+        "main_trade_units": -1760,
+        "sec_trade_units": 782,
+        "realizedPL": 3.595,
+        "realizedPL_pips": 22.700000000000003
+    },
+    {
+        "instrument": "AUD_USD",
+        "active": false,
+        "level": "3",
+        "IDs": [
+            "9765",
+            "9767",
+            "9805",
+            "9807"
+        ],
+        "price": [
+            0.67591,
+            0.67572
+        ],
+        "margin": [
+            59.5744,
+            26.4572
+        ],
+        "pip value": 0.176,
+        "expected_profit": [
+            0.353,
+            0.157
+        ],
+        "expected_loss": [
+            0.882,
+            0.392
+        ],
+        "main_trade_units": 1763,
+        "sec_trade_units": -783,
+        "realizedPL": -0.16900000000000004,
+        "realizedPL_pips": 8.61
+    },
+    {
+        "instrument": "SGD_CHF",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "9773",
+            "9775",
+            "9811"
+        ],
+        "price": [
+            0.68715,
+            0.6873
+        ],
+        "margin": [
+            59.5998,
+            26.4891
+        ],
+        "pip value": 0.173,
+        "expected_profit": [
+            0.347,
+            0.154
+        ],
+        "expected_loss": [
+            0.867,
+            0.385
+        ],
+        "main_trade_units": -1629,
+        "sec_trade_units": 724,
+        "realizedPL": 0.18200000000000005,
+        "realizedPL_pips": 5.8100000000000005
+    },
+    {
+        "instrument": "NZD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9781",
+            "9783"
+        ],
+        "price": [
+            0.57991,
+            0.57976
+        ],
+        "margin": [
+            59.6061,
+            26.4843
+        ],
+        "pip value": 0.206,
+        "expected_profit": [
+            0.411,
+            0.183
+        ],
+        "expected_loss": [
+            1.028,
+            0.457
+        ],
+        "main_trade_units": 1931,
+        "sec_trade_units": -858,
+        "realizedPL": 0.498,
+        "realizedPL_pips": 2.42
+    },
+    {
+        "instrument": "CAD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9791",
+            "9793"
+        ],
+        "price": [
+            0.70878,
+            0.7089
+        ],
+        "margin": [
+            59.593,
+            26.4623
+        ],
+        "pip value": 0.21,
+        "expected_profit": [
+            0.421,
+            0.187
+        ],
+        "expected_loss": [
+            1.051,
+            0.467
+        ],
+        "main_trade_units": -1975,
+        "sec_trade_units": 877,
+        "realizedPL": 0.447,
+        "realizedPL_pips": 2.13
+    },
+    {
+        "instrument": "CAD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9799",
+            "9801"
+        ],
+        "price": [
+            0.70826,
+            0.70812
+        ],
+        "margin": [
+            59.5886,
+            26.4738
+        ],
+        "pip value": 0.21,
+        "expected_profit": [
+            0.421,
+            0.187
+        ],
+        "expected_loss": [
+            1.052,
+            0.468
+        ],
+        "main_trade_units": 1974,
+        "sec_trade_units": -877,
+        "realizedPL": 0.576,
+        "realizedPL_pips": 2.74
+    },
+    {
+        "instrument": "AUD_USD",
+        "active": false,
+        "level": "3",
+        "IDs": [
+            "9819",
+            "9821",
+            "9825",
+            "9843"
+        ],
+        "price": [
+            0.67432,
+            0.67446
+        ],
+        "margin": [
+            59.6161,
+            26.4698
+        ],
+        "pip value": 0.177,
+        "expected_profit": [
+            0.354,
+            0.157
+        ],
+        "expected_loss": [
+            0.884,
+            0.393
+        ],
+        "main_trade_units": -1768,
+        "sec_trade_units": 785,
+        "realizedPL": 1.288,
+        "realizedPL_pips": 9.88
+    },
+    {
+        "instrument": "SGD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9831",
+            "9833"
+        ],
+        "price": [
+            0.68787,
+            0.68769
+        ],
+        "margin": [
+            59.6052,
+            26.4742
+        ],
+        "pip value": 0.173,
+        "expected_profit": [
+            0.347,
+            0.154
+        ],
+        "expected_loss": [
+            0.867,
+            0.385
+        ],
+        "main_trade_units": 1630,
+        "sec_trade_units": -724,
+        "realizedPL": 0.363,
+        "realizedPL_pips": 2.1
+    },
+    {
+        "instrument": "CAD_CHF",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "9839",
+            "9841",
+            "9867"
+        ],
+        "price": [
+            0.70893,
+            0.70905
+        ],
+        "margin": [
+            59.5752,
+            26.4544
+        ],
+        "pip value": 0.21,
+        "expected_profit": [
+            0.42,
+            0.187
+        ],
+        "expected_loss": [
+            1.051,
+            0.467
+        ],
+        "main_trade_units": -1975,
+        "sec_trade_units": 877,
+        "realizedPL": 0.623,
+        "realizedPL_pips": 5.34
+    },
+    {
+        "instrument": "AUD_USD",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9851",
+            "9853"
+        ],
+        "price": [
+            0.67473,
+            0.6746
+        ],
+        "margin": [
+            59.5725,
+            26.4467
+        ],
+        "pip value": 0.177,
+        "expected_profit": [
+            0.353,
+            0.157
+        ],
+        "expected_loss": [
+            0.883,
+            0.393
+        ],
+        "main_trade_units": 1766,
+        "sec_trade_units": -784,
+        "realizedPL": 0.363,
+        "realizedPL_pips": 2.05
+    },
+    {
+        "instrument": "SGD_CHF",
+        "active": false,
+        "level": "3",
+        "IDs": [
+            "9861",
+            "9863",
+            "9917",
+            "9929"
+        ],
+        "price": [
+            0.68847,
+            0.68859
+        ],
+        "margin": [
+            59.568,
+            26.4747
+        ],
+        "pip value": 0.173,
+        "expected_profit": [
+            0.346,
+            0.154
+        ],
+        "expected_loss": [
+            0.866,
+            0.385
+        ],
+        "main_trade_units": -1629,
+        "sec_trade_units": 724,
+        "realizedPL": 0.758,
+        "realizedPL_pips": 8.469999999999999
+    },
+    {
+        "instrument": "CAD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9873",
+            "9875"
+        ],
+        "price": [
+            0.70952,
+            0.70941
+        ],
+        "margin": [
+            59.5676,
+            26.451
+        ],
+        "pip value": 0.21,
+        "expected_profit": [
+            0.42,
+            0.187
+        ],
+        "expected_loss": [
+            1.05,
+            0.467
+        ],
+        "main_trade_units": 1975,
+        "sec_trade_units": -877,
+        "realizedPL": 0.573,
+        "realizedPL_pips": 2.73
+    },
+    {
+        "instrument": "AUD_USD",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9881",
+            "9883"
+        ],
+        "price": [
+            0.67564,
+            0.67577
+        ],
+        "margin": [
+            59.563,
+            26.4537
+        ],
+        "pip value": 0.176,
+        "expected_profit": [
+            0.353,
+            0.157
+        ],
+        "expected_loss": [
+            0.882,
+            0.392
+        ],
+        "main_trade_units": -1763,
+        "sec_trade_units": 783,
+        "realizedPL": 0.396,
+        "realizedPL_pips": 2.25
+    },
+    {
+        "instrument": "EUR_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9889",
+            "9891"
+        ],
+        "price": [
+            0.98192,
+            0.98178
+        ],
+        "margin": [
+            59.5573,
+            26.4606
+        ],
+        "pip value": 0.152,
+        "expected_profit": [
+            0.303,
+            0.135
+        ],
+        "expected_loss": [
+            0.759,
+            0.337
+        ],
+        "main_trade_units": 1427,
+        "sec_trade_units": -634,
+        "realizedPL": 0.396,
+        "realizedPL_pips": 2.61
+    },
+    {
+        "instrument": "AUD_USD",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9899",
+            "9901"
+        ],
+        "price": [
+            0.67523,
+            0.67536
+        ],
+        "margin": [
+            59.5615,
+            26.4718
+        ],
+        "pip value": 0.177,
+        "expected_profit": [
+            0.353,
+            0.157
+        ],
+        "expected_loss": [
+            0.883,
+            0.392
+        ],
+        "main_trade_units": -1764,
+        "sec_trade_units": 784,
+        "realizedPL": 0.355,
+        "realizedPL_pips": 2.0
+    },
+    {
+        "instrument": "AUD_USD",
+        "active": false,
+        "level": "3",
+        "IDs": [
+            "9907",
+            "9909",
+            "9913",
+            "9931"
+        ],
+        "price": [
+            0.67477,
+            0.67465
+        ],
+        "margin": [
+            59.5769,
+            26.449
+        ],
+        "pip value": 0.177,
+        "expected_profit": [
+            0.353,
+            0.157
+        ],
+        "expected_loss": [
+            0.883,
+            0.393
+        ],
+        "main_trade_units": 1766,
+        "sec_trade_units": -784,
+        "realizedPL": 1.377,
+        "realizedPL_pips": 10.27
+    },
+    {
+        "instrument": "CAD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9923",
+            "9925"
+        ],
+        "price": [
+            0.71036,
+            0.71046
+        ],
+        "margin": [
+            59.5907,
+            26.468
+        ],
+        "pip value": 0.21,
+        "expected_profit": [
+            0.42,
+            0.186
+        ],
+        "expected_loss": [
+            1.049,
+            0.466
+        ],
+        "main_trade_units": -1979,
+        "sec_trade_units": 879,
+        "realizedPL": 0.436,
+        "realizedPL_pips": 2.08
+    },
+    {
+        "instrument": "NZD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9937",
+            "9939"
+        ],
+        "price": [
+            0.58045,
+            0.5803
+        ],
+        "margin": [
+            59.5337,
+            26.4312
+        ],
+        "pip value": 0.205,
+        "expected_profit": [
+            0.41,
+            0.182
+        ],
+        "expected_loss": [
+            1.026,
+            0.456
+        ],
+        "main_trade_units": 1937,
+        "sec_trade_units": -860,
+        "realizedPL": 0.436,
+        "realizedPL_pips": 2.13
+    },
+    {
+        "instrument": "AUD_USD",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9947",
+            "9949"
+        ],
+        "price": [
+            0.67416,
+            0.6743
+        ],
+        "margin": [
+            59.5682,
+            26.4635
+        ],
+        "pip value": 0.177,
+        "expected_profit": [
+            0.354,
+            0.157
+        ],
+        "expected_loss": [
+            0.884,
+            0.393
+        ],
+        "main_trade_units": -1767,
+        "sec_trade_units": 785,
+        "realizedPL": 0.367,
+        "realizedPL_pips": 2.08
+    },
+    {
+        "instrument": "AUD_USD",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9955",
+            "9957"
+        ],
+        "price": [
+            0.6736,
+            0.67344
+        ],
+        "margin": [
+            59.5392,
+            26.4357
+        ],
+        "pip value": 0.177,
+        "expected_profit": [
+            0.354,
+            0.157
+        ],
+        "expected_loss": [
+            0.884,
+            0.393
+        ],
+        "main_trade_units": 1768,
+        "sec_trade_units": -785,
+        "realizedPL": 0.502,
+        "realizedPL_pips": 2.84
+    },
+    {
+        "instrument": "AUD_USD",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9963",
+            "9965"
+        ],
+        "price": [
+            0.67402,
+            0.67416
+        ],
+        "margin": [
+            59.5558,
+            26.458
+        ],
+        "pip value": 0.177,
+        "expected_profit": [
+            0.354,
+            0.157
+        ],
+        "expected_loss": [
+            0.884,
+            0.393
+        ],
+        "main_trade_units": -1767,
+        "sec_trade_units": 785,
+        "realizedPL": 0.462,
+        "realizedPL_pips": 2.61
+    },
+    {
+        "instrument": "AUD_USD",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9971",
+            "9973"
+        ],
+        "price": [
+            0.67297,
+            0.67282
+        ],
+        "margin": [
+            59.5516,
+            26.445
+        ],
+        "pip value": 0.177,
+        "expected_profit": [
+            0.354,
+            0.157
+        ],
+        "expected_loss": [
+            0.885,
+            0.394
+        ],
+        "main_trade_units": 1770,
+        "sec_trade_units": -786,
+        "realizedPL": 0.436,
+        "realizedPL_pips": 2.46
+    },
+    {
+        "instrument": "EUR_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "9979",
+            "9981"
+        ],
+        "price": [
+            0.98291,
+            0.98307
+        ],
+        "margin": [
+            59.5531,
+            26.4683
+        ],
+        "pip value": 0.152,
+        "expected_profit": [
+            0.303,
+            0.135
+        ],
+        "expected_loss": [
+            0.758,
+            0.337
+        ],
+        "main_trade_units": -1431,
+        "sec_trade_units": 636,
+        "realizedPL": 0.319,
+        "realizedPL_pips": 2.1
+    },
+    {
+        "instrument": "CAD_CHF",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "9991",
+            "9993",
+            "10001"
+        ],
+        "price": [
+            0.70968,
+            0.70955
+        ],
+        "margin": [
+            59.5877,
+            26.4564
+        ],
+        "pip value": 0.21,
+        "expected_profit": [
+            0.42,
+            0.187
+        ],
+        "expected_loss": [
+            1.05,
+            0.467
+        ],
+        "main_trade_units": 1982,
+        "sec_trade_units": -880,
+        "realizedPL": 0.554,
+        "realizedPL_pips": 5.34
+    },
+    {
+        "instrument": "EUR_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "10003",
+            "10005"
+        ],
+        "price": [
+            0.98208,
+            0.98223
+        ],
+        "margin": [
+            59.6331,
+            26.4851
+        ],
+        "pip value": 0.152,
+        "expected_profit": [
+            0.304,
+            0.135
+        ],
+        "expected_loss": [
+            0.759,
+            0.337
+        ],
+        "main_trade_units": -1432,
+        "sec_trade_units": 636,
+        "realizedPL": 0.308,
+        "realizedPL_pips": 2.03
+    },
+    {
+        "instrument": "SGD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "10013",
+            "10015"
+        ],
+        "price": [
+            0.68922,
+            0.68909
+        ],
+        "margin": [
+            59.6674,
+            26.4904
+        ],
+        "pip value": 0.173,
+        "expected_profit": [
+            0.346,
+            0.154
+        ],
+        "expected_loss": [
+            0.866,
+            0.385
+        ],
+        "main_trade_units": 1633,
+        "sec_trade_units": -725,
+        "realizedPL": 0.365,
+        "realizedPL_pips": 2.11
+    },
+    {
+        "instrument": "EUR_CHF",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "10021",
+            "10023",
+            "10027"
+        ],
+        "price": [
+            0.98121,
+            0.98139
+        ],
+        "margin": [
+            59.6357,
+            26.4678
+        ],
+        "pip value": 0.152,
+        "expected_profit": [
+            0.304,
+            0.135
+        ],
+        "expected_loss": [
+            0.76,
+            0.338
+        ],
+        "main_trade_units": -1433,
+        "sec_trade_units": 636,
+        "realizedPL": 0.478,
+        "realizedPL_pips": 5.63
+    },
+    {
+        "instrument": "AUD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "10035",
+            "10037"
+        ],
+        "price": [
+            0.635,
+            0.63489
+        ],
+        "margin": [
+            59.6153,
+            26.4807
+        ],
+        "pip value": 0.188,
+        "expected_profit": [
+            0.376,
+            0.167
+        ],
+        "expected_loss": [
+            0.939,
+            0.418
+        ],
+        "main_trade_units": 1774,
+        "sec_trade_units": -788,
+        "realizedPL": 0.69,
+        "realizedPL_pips": 3.67
+    },
+    {
+        "instrument": "EUR_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "10043",
+            "10045"
+        ],
+        "price": [
+            0.98149,
+            0.98162
+        ],
+        "margin": [
+            59.62,
+            26.4839
+        ],
+        "pip value": 0.152,
+        "expected_profit": [
+            0.304,
+            0.135
+        ],
+        "expected_loss": [
+            0.76,
+            0.338
+        ],
+        "main_trade_units": -1434,
+        "sec_trade_units": 637,
+        "realizedPL": 0.477,
+        "realizedPL_pips": 3.14
+    },
+    {
+        "instrument": "EUR_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "10051",
+            "10053"
+        ],
+        "price": [
+            0.98079,
+            0.98063
+        ],
+        "margin": [
+            59.7086,
+            26.5053
+        ],
+        "pip value": 0.152,
+        "expected_profit": [
+            0.304,
+            0.135
+        ],
+        "expected_loss": [
+            0.761,
+            0.338
+        ],
+        "main_trade_units": 1435,
+        "sec_trade_units": -637,
+        "realizedPL": 0.329,
+        "realizedPL_pips": 2.16
+    },
+    {
+        "instrument": "EUR_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "10059",
+            "10061"
+        ],
+        "price": [
+            0.98145,
+            0.98163
+        ],
+        "margin": [
+            59.7399,
+            26.5418
+        ],
+        "pip value": 0.152,
+        "expected_profit": [
+            0.304,
+            0.135
+        ],
+        "expected_loss": [
+            0.761,
+            0.338
+        ],
+        "main_trade_units": -1436,
+        "sec_trade_units": 638,
+        "realizedPL": 0.306,
+        "realizedPL_pips": 2.01
+    },
+    {
+        "instrument": "CAD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "10067",
+            "10069"
+        ],
+        "price": [
+            0.7095,
+            0.70935
+        ],
+        "margin": [
+            59.7118,
+            26.5152
+        ],
+        "pip value": 0.21,
+        "expected_profit": [
+            0.421,
+            0.187
+        ],
+        "expected_loss": [
+            1.052,
+            0.468
+        ],
+        "main_trade_units": 1984,
+        "sec_trade_units": -881,
+        "realizedPL": 0.502,
+        "realizedPL_pips": 2.39
+    },
+    {
+        "instrument": "SGD_CHF",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "10079",
+            "10081",
+            "10105"
+        ],
+        "price": [
+            0.68972,
+            0.68985
+        ],
+        "margin": [
+            59.683,
+            26.5176
+        ],
+        "pip value": 0.173,
+        "expected_profit": [
+            0.346,
+            0.154
+        ],
+        "expected_loss": [
+            0.866,
+            0.385
+        ],
+        "main_trade_units": -1634,
+        "sec_trade_units": 726,
+        "realizedPL": 0.872,
+        "realizedPL_pips": 7.75
+    },
+    {
+        "instrument": "CAD_CHF",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "10087",
+            "10089",
+            "10101"
+        ],
+        "price": [
+            0.71041,
+            0.71034
+        ],
+        "margin": [
+            59.6824,
+            26.5019
+        ],
+        "pip value": 0.21,
+        "expected_profit": [
+            0.42,
+            0.187
+        ],
+        "expected_loss": [
+            1.05,
+            0.467
+        ],
+        "main_trade_units": 1984,
+        "sec_trade_units": -881,
+        "realizedPL": 3.113,
+        "realizedPL_pips": 17.2
+    },
+    {
+        "instrument": "EUR_CHF",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "10095",
+            "10097",
+            "10107"
+        ],
+        "price": [
+            0.98057,
+            0.98074
+        ],
+        "margin": [
+            59.6723,
+            26.4933
+        ],
+        "pip value": 0.152,
+        "expected_profit": [
+            0.304,
+            0.135
+        ],
+        "expected_loss": [
+            0.761,
+            0.338
+        ],
+        "main_trade_units": -1437,
+        "sec_trade_units": 638,
+        "realizedPL": 0.661,
+        "realizedPL_pips": 7.43
+    },
+    {
+        "instrument": "EUR_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "10113",
+            "10115"
+        ],
+        "price": [
+            0.98042,
+            0.98024
+        ],
+        "margin": [
+            59.7058,
+            26.5121
+        ],
+        "pip value": 0.152,
+        "expected_profit": [
+            0.305,
+            0.135
+        ],
+        "expected_loss": [
+            0.761,
+            0.339
+        ],
+        "main_trade_units": 1439,
+        "sec_trade_units": -639,
+        "realizedPL": 2.714,
+        "realizedPL_pips": 17.86
+    },
+    {
+        "instrument": "SGD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "10123",
+            "10125"
+        ],
+        "price": [
+            0.68996,
+            0.69013
+        ],
+        "margin": [
+            59.7312,
+            26.5269
+        ],
+        "pip value": 0.173,
+        "expected_profit": [
+            0.346,
+            0.154
+        ],
+        "expected_loss": [
+            0.866,
+            0.385
+        ],
+        "main_trade_units": -1637,
+        "sec_trade_units": 727,
+        "realizedPL": 0.395,
+        "realizedPL_pips": 2.28
+    },
+    {
+        "instrument": "AUD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "10127",
+            "10129"
+        ],
+        "price": [
+            0.63654,
+            0.63642
+        ],
+        "margin": [
+            59.719,
+            26.5272
+        ],
+        "pip value": 0.188,
+        "expected_profit": [
+            0.375,
+            0.167
+        ],
+        "expected_loss": [
+            0.938,
+            0.417
+        ],
+        "main_trade_units": 1774,
+        "sec_trade_units": -788,
+        "realizedPL": 3.403,
+        "realizedPL_pips": 18.1
+    },
+    {
+        "instrument": "CAD_CHF",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "10137",
+            "10139",
+            "10171"
+        ],
+        "price": [
+            0.71071,
+            0.71084
+        ],
+        "margin": [
+            59.7282,
+            26.5258
+        ],
+        "pip value": 0.21,
+        "expected_profit": [
+            0.42,
+            0.187
+        ],
+        "expected_loss": [
+            1.051,
+            0.467
+        ],
+        "main_trade_units": -1986,
+        "sec_trade_units": 882,
+        "realizedPL": 0.6990000000000001,
+        "realizedPL_pips": 5.6499999999999995
+    },
+    {
+        "instrument": "AUD_CHF",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "10145",
+            "10147",
+            "10159"
+        ],
+        "price": [
+            0.6405,
+            0.64044
+        ],
+        "margin": [
+            59.771,
+            26.5484
+        ],
+        "pip value": 0.187,
+        "expected_profit": [
+            0.373,
+            0.166
+        ],
+        "expected_loss": [
+            0.934,
+            0.415
+        ],
+        "main_trade_units": 1763,
+        "sec_trade_units": -783,
+        "realizedPL": 1.911,
+        "realizedPL_pips": 13.309999999999999
+    },
+    {
+        "instrument": "SGD_CHF",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "10153",
+            "10155",
+            "10191"
+        ],
+        "price": [
+            0.68938,
+            0.68949
+        ],
+        "margin": [
+            59.7882,
+            26.5723
+        ],
+        "pip value": 0.173,
+        "expected_profit": [
+            0.347,
+            0.154
+        ],
+        "expected_loss": [
+            0.867,
+            0.385
+        ],
+        "main_trade_units": -1638,
+        "sec_trade_units": 728,
+        "realizedPL": 0.508,
+        "realizedPL_pips": 5.26
+    },
+    {
+        "instrument": "AUD_CHF",
+        "active": true,
+        "level": "2",
+        "IDs": [
+            "10165",
+            "10167",
+            "10187"
+        ],
+        "price": [
+            0.64077,
+            0.64062
+        ],
+        "margin": [
+            59.8384,
+            26.5941
+        ],
+        "pip value": 0.187,
+        "expected_profit": [
+            0.374,
+            0.166
+        ],
+        "expected_loss": [
+            0.934,
+            0.415
+        ],
+        "main_trade_units": 1764,
+        "sec_trade_units": -784,
+        "realizedPL": 0.38,
+        "realizedPL_pips": 4.57
+    },
+    {
+        "instrument": "CAD_CHF",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "10177",
+            "10179",
+            "10183"
+        ],
+        "price": [
+            0.71078,
+            0.71089
+        ],
+        "margin": [
+            59.8021,
+            26.5754
+        ],
+        "pip value": 0.21,
+        "expected_profit": [
+            0.421,
+            0.187
+        ],
+        "expected_loss": [
+            1.052,
+            0.468
+        ],
+        "main_trade_units": -1987,
+        "sec_trade_units": 883,
+        "realizedPL": 1.415,
+        "realizedPL_pips": 9.059999999999999
+    },
+    {
+        "instrument": "SGD_CHF",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "10197",
+            "10199",
+            "10211"
+        ],
+        "price": [
+            0.68957,
+            0.68945
+        ],
+        "margin": [
+            59.8366,
+            26.5819
+        ],
+        "pip value": 0.174,
+        "expected_profit": [
+            0.347,
+            0.154
+        ],
+        "expected_loss": [
+            0.868,
+            0.386
+        ],
+        "main_trade_units": 1641,
+        "sec_trade_units": -729,
+        "realizedPL": 0.779,
+        "realizedPL_pips": 6.74
+    },
+    {
+        "instrument": "CAD_CHF",
+        "active": false,
+        "level": "2",
+        "IDs": [
+            "10205",
+            "10207",
+            "10215"
+        ],
+        "price": [
+            0.71068,
+            0.71078
+        ],
+        "margin": [
+            59.8589,
+            26.604
+        ],
+        "pip value": 0.211,
+        "expected_profit": [
+            0.421,
+            0.187
+        ],
+        "expected_loss": [
+            1.053,
+            0.468
+        ],
+        "main_trade_units": -1989,
+        "sec_trade_units": 884,
+        "realizedPL": 0.861,
+        "realizedPL_pips": 6.34
+    },
+    {
+        "instrument": "CAD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "10221",
+            "10223"
+        ],
+        "price": [
+            0.71083,
+            0.71078
+        ],
+        "margin": [
+            59.8302,
+            26.5757
+        ],
+        "pip value": 0.21,
+        "expected_profit": [
+            0.421,
+            0.187
+        ],
+        "expected_loss": [
+            1.052,
+            0.468
+        ],
+        "main_trade_units": 1988,
+        "sec_trade_units": -883,
+        "realizedPL": 0.427,
+        "realizedPL_pips": 2.03
+    },
+    {
+        "instrument": "CAD_CHF",
+        "active": false,
+        "level": "1",
+        "IDs": [
+            "10229",
+            "10231"
+        ],
+        "price": [
+            0.71141,
+            0.71152
+        ],
+        "margin": [
+            59.8717,
+            26.607
+        ],
+        "pip value": 0.21,
+        "expected_profit": [
+            0.421,
+            0.187
+        ],
+        "expected_loss": [
+            1.052,
+            0.468
+        ],
+        "main_trade_units": -1987,
+        "sec_trade_units": 883,
+        "realizedPL": 0.603,
+        "realizedPL_pips": 2.87
+    },
+    {
+        "instrument": "SGD_CHF",
+        "active": true,
+        "level": "1",
+        "IDs": [
+            "10237",
+            "10239"
+        ],
+        "price": [
+            0.68957,
+            0.68945
+        ],
+        "margin": [
+            59.908,
+            26.5974
+        ],
+        "pip value": 0.174,
+        "expected_profit": [
+            0.348,
+            0.154
+        ],
+        "expected_loss": [
+            0.869,
+            0.386
+        ],
+        "main_trade_units": 1642,
+        "sec_trade_units": -729,
+        "realizedPL": 0,
+        "realizedPL_pips": 0
+    },
+    {
+        "instrument": "CAD_CHF",
+        "active": true,
+        "level": "1",
+        "IDs": [
+            "10245",
+            "10247"
+        ],
+        "price": [
+            0.71044,
+            0.71059
+        ],
+        "margin": [
+            59.6762,
+            26.5057
+        ],
+        "pip value": 0.21,
+        "expected_profit": [
+            0.42,
+            0.187
+        ],
+        "expected_loss": [
+            1.05,
+            0.467
+        ],
+        "main_trade_units": -1988,
+        "sec_trade_units": 883,
+        "realizedPL": 0,
+        "realizedPL_pips": 0
+    }
+]
